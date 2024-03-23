@@ -1,6 +1,4 @@
-# Ofnil Graph Feature Platform
-
-[![slack](https://img.shields.io/badge/slack-ofnil-brightgreen?logo=slack)](https://join.slack.com/t/ofnil/shared_invite/zt-1j6d9k0bb-cwH_BfR_3CFJ68hf6BvKaw)
+# MLOPS Graph Feature Platform
 
 > This project is under active development and we may break API compatibility in the future. We welcome contributions and community feedback.
 
