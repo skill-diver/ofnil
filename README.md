@@ -1,8 +1,8 @@
-# GCO Graph Feature Platform
+# Ofnil Graph Feature Platform
 
 > This project is under active development and we may break API compatibility in the future. We welcome contributions and community feedback.
 
-GCO is a graph feature platform, which creates, manages and serves graph features for graph machine learning.
+Ofnil is a graph feature platform, which creates, manages and serves graph features for graph machine learning.
 
 ## Features
 
@@ -10,7 +10,7 @@ GCO is a graph feature platform, which creates, manages and serves graph feature
 
 Currently, using Graph Neural Networks (GNNs) on graph databases (e.g., Neo4j) requires tedious work to prepare data to be consumed by GNN frameworks (e.g., DGL, PyG). GCO provides a unified graph feature definition and feature engineering pipeline, which can be used to connect your graph database effortlessly to downstream graph machine learning.
 
-By defining and deploying your graph feature definition in GCO, you can save tremendous efforts of writing, maintaining and debugging the tedious data mapper, connector, dataloader, sampler, data pipeline code, etc. You also need not worry about the graph feature consistency, correctness, or different graph database infrastructure behaviors. Therefore, you can now simply focus on your graph feature definition and graph machine learning models that are needed by your business/applications.
+By defining and deploying your graph feature definition in Ofnil, you can save tremendous efforts of writing, maintaining and debugging the tedious data mapper, connector, dataloader, sampler, data pipeline code, etc. You also need not worry about the graph feature consistency, correctness, or different graph database infrastructure behaviors. Therefore, you can now simply focus on your graph feature definition and graph machine learning models that are needed by your business/applications.
 
 ### Define graph features in an intuitive and declarative way
 
