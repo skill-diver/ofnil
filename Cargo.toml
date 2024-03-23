@@ -28,7 +28,7 @@ redis = "0.23.0"
 pyo3 = { version = "0.20.0", features = ["extension-module"] }
 rand = { version = "0.8.5", optional = true }
 bb8-bolt = "0.8.0"
-strum = { version = "0.25", features = ["derive"] }
+strum = { version = "0.26", features = ["derive"] }
 rocket = { version = "0.5.0-rc.2", features = ["json"], optional = true }
 enum-methods = "0.0.8"
 
