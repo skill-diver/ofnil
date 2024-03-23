@@ -8,7 +8,7 @@ GCO is a graph feature platform, which creates, manages and serves graph feature
 
 ### Connect your graph database to graph machine learning
 
-Currently, using Graph Neural Networks (GNNs) on graph databases (e.g., Neo4j) requires tedious work to prepare data to be consumed by GNN frameworks (e.g., DGL, PyG). Ofnil provides a unified graph feature definition and feature engineering pipeline, which can be used to connect your graph database effortlessly to downstream graph machine learning.
+Currently, using Graph Neural Networks (GNNs) on graph databases (e.g., Neo4j) requires tedious work to prepare data to be consumed by GNN frameworks (e.g., DGL, PyG). GCO provides a unified graph feature definition and feature engineering pipeline, which can be used to connect your graph database effortlessly to downstream graph machine learning.
 
 By defining and deploying your graph feature definition in GCO, you can save tremendous efforts of writing, maintaining and debugging the tedious data mapper, connector, dataloader, sampler, data pipeline code, etc. You also need not worry about the graph feature consistency, correctness, or different graph database infrastructure behaviors. Therefore, you can now simply focus on your graph feature definition and graph machine learning models that are needed by your business/applications.
 
@@ -58,4 +58,3 @@ let item_prop = transform_graph
 - [Contribution Guide](./CONTRIBUTING.md)
 - [Quickstart](./examples/quickstart/)
 - [Docs](./docs/)
-- [Ofnil Rust API Docs](https://rustdoc.ofnil.io/ofnil/)
