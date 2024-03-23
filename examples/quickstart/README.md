@@ -1,6 +1,6 @@
-# Ofnil Quickstart
+# GCO Quickstart
 
-This is a quickstart guide for Ofnil. It will help you get started with Ofnil.
+This is a quickstart guide for GCO. It will help you get started with GCO.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Before starting, make sure you have installed
 
 #### 2. Build and start the Docker containers
 
-You will need to clone the Ofnil repository first:
+You will need to clone the GCO repository first:
 
 ```bash
 
